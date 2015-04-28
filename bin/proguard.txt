@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:31
+-keep class com.govinda.gplightwidget.FlashlightWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.govinda.gplightwidget.FlashlightWidgetReceiver { <init>(...); }
+
